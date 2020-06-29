@@ -27,29 +27,29 @@ ratings_train.txt 파일과 ratings_test 파일을 각각
 
 
 < 영어 >
-1. colab notebook에 코드 복사
+<Data Description>
+friends 드라마 대본 데이터로 학습해 8가지 감정 분류를 해낸다.
+  
+학습 데이터 다운로드: http://doraemon.iis.sinica.edu.tw/emotionlines/download.html
 
-2. google drive mount 후에
-
-/2020 1학기/자연어처리/friends/ 
-폴더 생성
+< 실행 방법 >
+1. colab notebook으로 노트북 파일을 연다.
+2. google drive mount
+3. 
+/2020 1학기/자연어처리/friends/ 폴더 생성
 
 혹은 
 
 드라이브에 임의의 폴더 생성 후
-path = "/content/drive/My Drive/2020 1학기/자연어처리/friends" 값을 경로에 맞춰 변경
+path = "/content/drive/My Drive/2020 1학기/자연어처리/friends" 값을 경로에 맞춰 변경한다.
 
 
-3. 다음 파일들 폴더에 붙여넣기 후 모두 실행
+3. 다음 파일들을 폴더에 붙여넣기 후 실행한다.
 
 en_data.csv
-
 en_sample.csv
-
 friends_train.json
-
 friends_dev.json
-
 friends_test.json
 
 
