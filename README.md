@@ -1,9 +1,7 @@
 # 2020-1R-cose461
 2020 1R cose461(NLP)
 
-
 <한글>
-
 <Data Description>
 "NSMC"는 네이버 영화 리뷰에 달린 별점을 긍정/부정으로 변환한 binary-class 데이터셋입니다.
 주어진 문장을 긍정(1) 혹은 부정(0)으로 분류해야 합니다.
@@ -22,6 +20,9 @@ ratings_train.txt 파일과 ratings_test 파일을 각각
 에 넣어서 코드를 실행시켰다. (실행시킬 사용자가 ratings_train.txt 파일과 ratings_test 파일을 원하는 디렉토리에 넣어서 실행시키면 된다.)
 
 코드형식은 .ipynb 형식으로 주피터 노트북이나 colab 을 이용해서 실행할 수 있다.
+
+
+
 
 
 
