@@ -12,7 +12,7 @@ Train <br/>
 Test <br/>
 ko_data.csv - 입력으로 사용한 테스트 파일 <br/>
 sample_kaggle_1st.csv - 예측값을 레이블링해 제출한 테스트 파일 <br/>
-
+<br/>
 <코드 실행> <br/>
 학습 데이터를 다운해서 <br/>
 ratings_train.txt 파일과 ratings_test 파일을 각각 <br/>
