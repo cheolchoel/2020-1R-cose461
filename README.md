@@ -35,8 +35,7 @@ friends 드라마 대본 데이터로 학습해 8가지 감정 분류를 해낸�
 < 실행 방법 >
 1. colab notebook으로 노트북 파일을 연다.
 2. google drive mount
-3. 
-/2020 1학기/자연어처리/friends/ 폴더 생성
+3. /2020 1학기/자연어처리/friends/ 폴더 생성
 
 혹은 
 
@@ -44,7 +43,7 @@ friends 드라마 대본 데이터로 학습해 8가지 감정 분류를 해낸�
 path = "/content/drive/My Drive/2020 1학기/자연어처리/friends" 값을 경로에 맞춰 변경한다.
 
 
-3. 다음 파일들을 폴더에 붙여넣기 후 실행한다.
+4. 다음 파일들을 폴더에 붙여넣기 후 실행한다.
 
 en_data.csv
 en_sample.csv
